@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Messenger"
 include(":app")
- 
+include(":core:essentials")
+include(":core:common-android")
