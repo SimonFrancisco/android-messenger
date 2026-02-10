@@ -34,6 +34,7 @@ material = { group = "com.google.android.material", name = "material", version.r
 timber = { group = "com.jakewharton.timber", name = "timber", version.ref = "timber" }
 hilt-android = { group = "com.google.dagger", name = "hilt-android", version.ref = "hilt" }
 hilt-compiler = { group = "com.google.dagger", name = "hilt-compiler", version.ref = "hilt" }
+javax-inject = { group = "javax.inject", name = "javax.inject", version = "1" }
 
 #plugins
 plugin-android-application = { module = "com.android.application:com.android.application.gradle.plugin", version.ref = "agp" }

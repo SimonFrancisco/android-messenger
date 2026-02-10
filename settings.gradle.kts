@@ -26,3 +26,5 @@ rootProject.name = "Messenger"
 include(":app")
 include(":core:essentials")
 include(":core:common-android")
+include(":features:init:domain")
+include(":features:init:presentation")
