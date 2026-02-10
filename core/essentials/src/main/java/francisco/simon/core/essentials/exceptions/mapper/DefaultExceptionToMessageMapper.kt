@@ -1,6 +1,6 @@
 package francisco.simon.core.essentials.exceptions.mapper
 
-import francisco.simon.core.essentials.exceptions.WithLocalizedMessage
+import francisco.simon.core.essentials.exceptions.base.WithLocalizedMessage
 import francisco.simon.core.essentials.resources.CoreStringProvider
 import francisco.simon.core.essentials.resources.StringProviderStore
 import javax.inject.Inject

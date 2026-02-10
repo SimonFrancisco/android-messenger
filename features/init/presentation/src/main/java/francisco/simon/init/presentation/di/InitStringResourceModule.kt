@@ -7,7 +7,7 @@ import dagger.hilt.components.SingletonComponent
 import dagger.multibindings.ClassKey
 import dagger.multibindings.IntoMap
 import francisco.simon.core.essentials.resources.StringProvider
-import francisco.simon.features.init.domain.InitStringProvider
+import francisco.simon.features.init.domain.resources.InitStringProvider
 import francisco.simon.init.presentation.InitStringProviderImpl
 
 @Module

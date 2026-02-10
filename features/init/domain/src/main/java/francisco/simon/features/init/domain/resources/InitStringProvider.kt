@@ -1,4 +1,4 @@
-package francisco.simon.features.init.domain
+package francisco.simon.features.init.domain.resources
 
 import francisco.simon.core.essentials.resources.StringProvider
 

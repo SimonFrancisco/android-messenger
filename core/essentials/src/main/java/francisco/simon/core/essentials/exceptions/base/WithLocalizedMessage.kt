@@ -1,4 +1,4 @@
-package francisco.simon.core.essentials.exceptions
+package francisco.simon.core.essentials.exceptions.base
 
 import francisco.simon.core.essentials.resources.StringProviderStore
 

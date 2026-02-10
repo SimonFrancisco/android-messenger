@@ -2,7 +2,7 @@ package francisco.simon.init.presentation
 
 import android.content.Context
 import dagger.hilt.android.qualifiers.ApplicationContext
-import francisco.simon.features.init.domain.InitStringProvider
+import francisco.simon.features.init.domain.resources.InitStringProvider
 import javax.inject.Inject
 
 class InitStringProviderImpl @Inject constructor(
