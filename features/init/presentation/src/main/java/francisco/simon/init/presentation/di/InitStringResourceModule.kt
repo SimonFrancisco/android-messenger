@@ -8,7 +8,7 @@ import dagger.multibindings.ClassKey
 import dagger.multibindings.IntoMap
 import francisco.simon.core.essentials.resources.StringProvider
 import francisco.simon.features.init.domain.resources.InitStringProvider
-import francisco.simon.init.presentation.InitStringProviderImpl
+import francisco.simon.init.presentation.resources.InitStringProviderImpl
 
 @Module
 @InstallIn(SingletonComponent::class)
