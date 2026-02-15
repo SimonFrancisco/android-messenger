@@ -35,9 +35,6 @@ android {
             jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_11
         }
     }
-
-    buildFeatures {
-        compose = true
-    }
-
 }
+
+setCompose()

@@ -1,0 +1,2 @@
+francisco.simon.features.*.domain.entities.**
+com.elveum.container.Container<_ >

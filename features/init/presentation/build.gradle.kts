@@ -7,10 +7,9 @@ plugins {
 android {
     namespace = "francisco.simon.init.presentation"
 
-    buildFeatures {
-        compose = true
-    }
 }
+
+setCompose()
 
 dependencies {
     api(projects.features.init.domain)
