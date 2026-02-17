@@ -3,6 +3,7 @@ plugins {
 }
 
 dependencies {
+    implementation(libs.javax.inject)
     implementation(projects.core.essentials)
     testImplementation(libs.junit)
 }

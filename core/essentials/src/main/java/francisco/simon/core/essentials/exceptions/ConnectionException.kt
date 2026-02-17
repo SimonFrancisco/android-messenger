@@ -5,7 +5,7 @@ import francisco.simon.core.essentials.resources.CoreStringProvider
 
 class ConnectionException(
     cause: Throwable? = null
-) : CoreAppException("Network error", cause) {
+) : CoreAppException("Network connection error", cause) {
     override fun getLocalizedErrorMessage(stringProvider: CoreStringProvider): String {
         return stringProvider.connectionErrorMessage
     }
